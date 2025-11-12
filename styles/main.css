@@ -137,3 +137,10 @@ header{
     padding-top: .5em;
     padding-bottom: .5em;
 }
+.speaker img{
+    width: 100%;
+    max-width: 250px;
+    min-width: 100px;
+    float: right;
+    margin-left: 1em;
+}
